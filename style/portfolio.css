@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.portfolio {
+    height: 2253px;
+    background-color: #F6F6F6;
+}
+
+.portfolio .title {
+    margin-bottom: 47px;
+}
+
+.project {
+    width: 936.24px;
+    height: 522px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 143px;
+}
+
+.project img {
+    margin-bottom: 44.88px;
+}
+
+.sait_project a {
+    color: black;
+}

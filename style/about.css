@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+.about {
+    height: 506px;
+    background-color: #F6F6F6;
+}
+
+.title {
+    font-size: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    line-height: 42.09px;
+    text-align: center;
+    padding-top: 120.25px;
+    padding-bottom: 17.69px;
+}
+
+.about .content {
+    text-align: center;
+    margin: 0 auto;
+    width: 485.34px;
+    height: 218px;
+}
+
+.content .text {
+    font-size: 18px;
+    margin-bottom: 45px;
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 400;
+}

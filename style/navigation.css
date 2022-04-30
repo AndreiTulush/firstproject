@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.navigation {
+    margin-top: 33px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__link {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    text-decoration: none;
+    color: #828282;
+}
+
+.nav__link:hover {
+    color: black;
+    transition: .65s;
+}

@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.contacts .text {
+    margin: 0 auto;
+    width: 275.14px;
+    height: 44.06px;
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 400;
+    margin-top: 20.03px;
+}
+
+.contacts .button {
+    width: 180.5px;
+    height: 42px;
+    background-color: black;
+    margin: 29.6px auto;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.contacts .button .btn {
+    width: 180.5px;
+    height: 42px;
+    background-color: black;
+    text-align: center;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50px;
+}
+
+.social__media {
+    display: flex;
+    justify-content: center;
+    margin-top: 85.78px;
+}
+
+.social__media .logo {
+    padding-right: 62.17px;
+}
+
+.footer {
+    width: 243.01px;
+    height: 34.05px;
+    margin: 0 auto;
+    margin-top: 45.98px;
+    text-align: center;
+}
+
+.footer .footer__text {
+    color: #828282;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+}

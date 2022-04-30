@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.skills {
+    width: 944px;
+    height: 610px;
+    margin: 0 auto;
+}
+
+.skills .text {
+    font-size: 18px;
+    margin-bottom: 45px;
+    font-family: 'Radio Canada', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 69.1px;
+}
+
+.mySkills {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 83.49px;
+}
+
+.item {
+    width: 166.46px;
+    height: 206.29px;
+    text-align: center;
+}
+
+.description {
+    width: 70.29px;
+    height: 27.27px;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #828282;
+
+    margin: 24.21px auto;
+}
+
+.stars {
+    margin-top: 40.41px;
+}
